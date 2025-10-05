@@ -1,0 +1,70 @@
+{
+  "turn": 2,
+  "party": [
+    {
+      "name": "Протагонист",
+      "hp": 0,
+      "max_hp": 110,
+      "mp": 60,
+      "max_mp": 60,
+      "down": false,
+      "weak": [
+        "WIND"
+      ],
+      "res": [
+        "ELEC"
+      ],
+      "effects": []
+    },
+    {
+      "name": "Маг",
+      "hp": 0,
+      "max_hp": 90,
+      "mp": 60,
+      "max_mp": 60,
+      "down": false,
+      "weak": [],
+      "res": [],
+      "effects": []
+    },
+    {
+      "name": "Хилер",
+      "hp": 0,
+      "max_hp": 95,
+      "mp": 70,
+      "max_mp": 70,
+      "down": false,
+      "weak": [],
+      "res": [],
+      "effects": []
+    },
+    {
+      "name": "Вор",
+      "hp": 0,
+      "max_hp": 85,
+      "mp": 40,
+      "max_mp": 40,
+      "down": false,
+      "weak": [],
+      "res": [],
+      "effects": []
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Страж Коридора",
+      "hp": 217,
+      "max_hp": 300,
+      "mp": 56,
+      "max_mp": 80,
+      "down": false,
+      "weak": [
+        "WIND"
+      ],
+      "res": [
+        "FIRE"
+      ],
+      "effects": []
+    }
+  ]
+}
